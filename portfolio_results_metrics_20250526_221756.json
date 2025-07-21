@@ -1,0 +1,10 @@
+{
+  "agent_metrics": {
+    "final_value": 42255.30117358358,
+    "total_return_pct": 322.55301173583587,
+    "annualized_volatility_pct": 29.54703507590849,
+    "sharpe_ratio": 1.7917136463531536,
+    "max_drawdown_pct": -22.93469278667418,
+    "win_rate_pct": 52.54010695187166,
+    "total_days": 749,
+    "positive_days": 
